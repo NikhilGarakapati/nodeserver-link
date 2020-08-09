@@ -1,0 +1,14 @@
+{
+  "name": "datalink",
+  "version": "1.0.0",
+  "description": "HardCoded Data for test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
